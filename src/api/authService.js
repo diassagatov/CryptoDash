@@ -20,7 +20,7 @@ export function login(username, password) {
 // Logout
 export function logout() {
   localStorage.removeItem(AUTH_KEY);
-  window.open("/login");
+  window.open("/");
 }
 
 // Login status
