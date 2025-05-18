@@ -7,7 +7,7 @@ import {
   ResponsiveContainer,
   Legend,
 } from "recharts";
-import CustomTooltip from "./CustomToolTip";
+import CustomTooltip from "./CustomTooltip";
 
 const colorPalette = [
   "#00ffcc",
